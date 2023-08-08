@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.firebase_signin">
+    package="com.example.step_sync_app">
    <application
-        android:label="firebase_signin"
+        android:label="step_sync_app"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
